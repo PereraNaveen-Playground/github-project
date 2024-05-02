@@ -6,4 +6,4 @@ Project Description
 
 ### License
 Copyright &copy; 2024 DEP12. All Rights Reserved. <br>
-This project is licensed under the MIT license.
+This project is licensed under the [MIT] (LICENSE.txt) license.
